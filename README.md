@@ -37,3 +37,11 @@ Suggested Fixes:
 
 Conclusion:
 The website worked fine on desktop browsers and was mostly smooth. On mobile, some layout and loading issues were noticed, especially with the navbar and image speed. A few small changes can improve mobile compatibility and user experience.
+
+Author:
+Rathun Rajeevan  
+BCA Student – Jain (Deemed-to-be) University  
+Software Testing Intern – Prodigy InfoTech
+
+Acknowledgements
+This task is part of the Prodigy InfoTech Software Testing Internship. Thanks to the Prodigy InfoTech team for outlining this exercise and supporting the learning process.
